@@ -29,8 +29,8 @@ This repository is dedicated to providing well-structured, efficient, and thorou
 
 3. **Run a solution**:
     ```bash
-    # Example for a Python solution
-    python path/to/solution.py
+    # Example for a Solution of Daily Problem on date 16th July 2024
+    python path/to/16th July 2024.java
     ```
 
 ## Solutions
