@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: [your-email@example.com](mailto:kubetkarpratham14@gmail.com)
+- Email: [your-kubetkarpratham14@gmail.com](mailto:kubetkarpratham14@gmail.com)
 - GitHub: [prathamk1483](https://github.com/prathamk1483)
 
 ---
